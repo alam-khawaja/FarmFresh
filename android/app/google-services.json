@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756020551800",
+    "project_id": "farm-your-food-c2ecb",
+    "storage_bucket": "farm-your-food-c2ecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756020551800:android:af80981e92a65c28070d8d",
+        "android_client_info": {
+          "package_name": "com.example.farm_your_food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDlfkEbj2M7Ix2xKwe6njEf694dyQrb_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
